@@ -1,1 +1,1 @@
-default: --format html --out report<%= ENV['TEST_ENV_NUMBER'] %>.html
+parallel: --format html --out report<%= ENV['TEST_ENV_NUMBER']%>.html --format ParallelTests::Cucumber::FailuresLogger --out cucumber_failures.log
