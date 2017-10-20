@@ -1,1 +1,1 @@
-default: --format html --out report<%= ENV['TEST_ENV_NUMBER'] %>.html
+default: --format json --out report<%= ENV['TEST_ENV_NUMBER'] %>.json
