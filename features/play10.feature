@@ -15,6 +15,7 @@
       | "http://konquestnow.com/release/inside-tech-n9ne-x-verseborn/"       |
       | "http://konQuestNow.com/release/wild-out-verseborn/"                 |
       | "http://konquestnow.com/release/smile-verseborn-ft-smooth-da-truth/" |
+      | "http://konquestnow.com/release/happy-thoughts-wreck-the-rebel/"     |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -27,6 +28,7 @@
       | "http://konquestnow.com/release/inside-tech-n9ne-x-verseborn/"       |
       | "http://konQuestNow.com/release/wild-out-verseborn/"                 |
       | "http://konquestnow.com/release/smile-verseborn-ft-smooth-da-truth/" |
+      | "http://konquestnow.com/release/happy-thoughts-wreck-the-rebel/"     |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -39,6 +41,7 @@
       | "http://konquestnow.com/release/inside-tech-n9ne-x-verseborn/"       |
       | "http://konQuestNow.com/release/wild-out-verseborn/"                 |
       | "http://konquestnow.com/release/smile-verseborn-ft-smooth-da-truth/" |
+      | "http://konquestnow.com/release/happy-thoughts-wreck-the-rebel/"     |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -51,6 +54,7 @@
       | "http://konquestnow.com/release/inside-tech-n9ne-x-verseborn/"       |
       | "http://konQuestNow.com/release/wild-out-verseborn/"                 |
       | "http://konquestnow.com/release/smile-verseborn-ft-smooth-da-truth/" |
+      | "http://konquestnow.com/release/happy-thoughts-wreck-the-rebel/"     |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -63,3 +67,4 @@
       | "http://konquestnow.com/release/inside-tech-n9ne-x-verseborn/"       |
       | "http://konQuestNow.com/release/wild-out-verseborn/"                 |
       | "http://konquestnow.com/release/smile-verseborn-ft-smooth-da-truth/" |
+      | "http://konquestnow.com/release/happy-thoughts-wreck-the-rebel/"     |
