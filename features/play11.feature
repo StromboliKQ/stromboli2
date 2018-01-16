@@ -10,7 +10,7 @@
       
       Examples:
       | url                                                                    |
-      | "https://soundcloud.com/brainkavemusic/what-i-say-is-disgusting-joell" |
+      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/" |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -18,7 +18,7 @@
       
       Examples:
       | url                                                                    |
-      | "https://soundcloud.com/brainkavemusic/what-i-say-is-disgusting-joell" |
+      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/" |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -26,7 +26,7 @@
       
       Examples:
       | url                                                                    |
-      | "https://soundcloud.com/brainkavemusic/what-i-say-is-disgusting-joell" |
+      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/" |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -34,7 +34,7 @@
       
       Examples:
       | url                                                                    |
-      | "https://soundcloud.com/brainkavemusic/what-i-say-is-disgusting-joell" |
+      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/" |
 
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -42,4 +42,4 @@
       
       Examples:
       | url                                                                    |
-      | "https://soundcloud.com/brainkavemusic/what-i-say-is-disgusting-joell" |
+      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/" |
