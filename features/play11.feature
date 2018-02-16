@@ -9,47 +9,52 @@
       Then I wait
       
       Examples:
-      | url                                                                              |
-      | "http://konquestnow.com/release/defiant-verseborn-x-smooth-da-truth-x-watzreal/" |
-      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/"         |
-      | "http://konquestnow.com/release/big-dreams-verseborn/"                           |
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/verseborn-ft-watzreal-smooth-da-truth-defiant-prod-by-verseborn#t=0:01" |
+      | "http://konquestnow.com/release/defiant-verseborn-x-smooth-da-truth-x-watzreal/"                            |
+      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/"                                    |
+      | "http://konquestnow.com/release/big-dreams-verseborn/"                                                      |
 
     Scenario Outline: Direct share
       Given I share the track <url>
       Then I wait
       
       Examples:
-      | url                                                                              |
-      | "http://konquestnow.com/release/defiant-verseborn-x-smooth-da-truth-x-watzreal/" |
-      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/"         |
-      | "http://konquestnow.com/release/big-dreams-verseborn/"                           |
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/verseborn-ft-watzreal-smooth-da-truth-defiant-prod-by-verseborn#t=0:01" |
+      | "http://konquestnow.com/release/defiant-verseborn-x-smooth-da-truth-x-watzreal/"                            |
+      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/"                                    |
+      | "http://konquestnow.com/release/big-dreams-verseborn/"                                                      |
 
     Scenario Outline: Direct share
       Given I share the track <url>
       Then I wait
       
       Examples:
-      | url                                                                              |
-      | "http://konquestnow.com/release/defiant-verseborn-x-smooth-da-truth-x-watzreal/" |
-      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/"         |
-      | "http://konquestnow.com/release/big-dreams-verseborn/"                           |
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/verseborn-ft-watzreal-smooth-da-truth-defiant-prod-by-verseborn#t=0:01" |
+      | "http://konquestnow.com/release/defiant-verseborn-x-smooth-da-truth-x-watzreal/"                            |
+      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/"                                    |
+      | "http://konquestnow.com/release/big-dreams-verseborn/"                                                      |
 
     Scenario Outline: Direct share
       Given I share the track <url>
       Then I wait
       
       Examples:
-      | url                                                                              |
-      | "http://konquestnow.com/release/defiant-verseborn-x-smooth-da-truth-x-watzreal/" |
-      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/"         |
-      | "http://konquestnow.com/release/big-dreams-verseborn/"                           |
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/verseborn-ft-watzreal-smooth-da-truth-defiant-prod-by-verseborn#t=0:01" |
+      | "http://konquestnow.com/release/defiant-verseborn-x-smooth-da-truth-x-watzreal/"                            |
+      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/"                                    |
+      | "http://konquestnow.com/release/big-dreams-verseborn/"                                                      |
 
     Scenario Outline: Direct share
       Given I share the track <url>
       Then I wait
       
       Examples:
-      | url                                                                              |
-      | "http://konquestnow.com/release/defiant-verseborn-x-smooth-da-truth-x-watzreal/" |
-      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/"         |
-      | "http://konquestnow.com/release/big-dreams-verseborn/"                           |
+      | url                                                                                                         |
+      | "https://soundcloud.com/konquestnow/verseborn-ft-watzreal-smooth-da-truth-defiant-prod-by-verseborn#t=0:01" |
+      | "http://konquestnow.com/release/defiant-verseborn-x-smooth-da-truth-x-watzreal/"                            |
+      | "http://konquestnow.com/release/smoothquest-konquest-x-smooth-da-truth/"                                    |
+      | "http://konquestnow.com/release/big-dreams-verseborn/"                                                      |
