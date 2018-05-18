@@ -14,6 +14,8 @@
       | "http://konquestnow.com/release/renovations-wreck-the-rebel/"                            |
       | "https://soundcloud.com/konquestnow/theteenageladykiller-mix#t=0:01"                     |
       | "http://konquestnow.com/release/teenage-lady-killer-wreck-the-rebel/"                    |
+      | "https://soundcloud.com/konquestnow/verseborn-long-days-prod-by-verseborn#t=0:01"        |
+      | "http://konquestnow.com/release/long-days-verseborn/"                                    |
       
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -25,6 +27,8 @@
       | "http://konquestnow.com/release/renovations-wreck-the-rebel/"                            |
       | "https://soundcloud.com/konquestnow/theteenageladykiller-mix#t=0:01"                     |
       | "http://konquestnow.com/release/teenage-lady-killer-wreck-the-rebel/"                    |
+      | "https://soundcloud.com/konquestnow/verseborn-long-days-prod-by-verseborn#t=0:01"        |
+      | "http://konquestnow.com/release/long-days-verseborn/"                                    |
       
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -36,6 +40,8 @@
       | "http://konquestnow.com/release/renovations-wreck-the-rebel/"                            |
       | "https://soundcloud.com/konquestnow/theteenageladykiller-mix#t=0:01"                     |
       | "http://konquestnow.com/release/teenage-lady-killer-wreck-the-rebel/"                    |
+      | "https://soundcloud.com/konquestnow/verseborn-long-days-prod-by-verseborn#t=0:01"        |
+      | "http://konquestnow.com/release/long-days-verseborn/"                                    |
       
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -47,6 +53,8 @@
       | "http://konquestnow.com/release/renovations-wreck-the-rebel/"                            |
       | "https://soundcloud.com/konquestnow/theteenageladykiller-mix#t=0:01"                     |
       | "http://konquestnow.com/release/teenage-lady-killer-wreck-the-rebel/"                    |
+      | "https://soundcloud.com/konquestnow/verseborn-long-days-prod-by-verseborn#t=0:01"        |
+      | "http://konquestnow.com/release/long-days-verseborn/"                                    |
       
     Scenario Outline: Direct share
       Given I share the track <url>
@@ -58,4 +66,6 @@
       | "http://konquestnow.com/release/renovations-wreck-the-rebel/"                            |
       | "https://soundcloud.com/konquestnow/theteenageladykiller-mix#t=0:01"                     |
       | "http://konquestnow.com/release/teenage-lady-killer-wreck-the-rebel/"                    |
+      | "https://soundcloud.com/konquestnow/verseborn-long-days-prod-by-verseborn#t=0:01"        |
+      | "http://konquestnow.com/release/long-days-verseborn/"                                    |
       
